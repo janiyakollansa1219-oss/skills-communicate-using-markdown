@@ -4,3 +4,6 @@
 #### h4
 ##### h5
 ###### This is a h6 heading.
+
+![Image of Securitocat](https://octodex.github.com/images/securitocat.png)
+
