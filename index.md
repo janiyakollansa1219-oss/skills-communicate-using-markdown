@@ -7,3 +7,11 @@
 
 ![Image of Securitocat](https://octodex.github.com/images/securitocat.png)
 
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+``` javascript
+var myVar = "Hello, world!";
+```
+
